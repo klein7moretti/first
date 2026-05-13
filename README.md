@@ -1,4 +1,4 @@
 # first
 first repository
 <br>
-Author: Ayush Singh
+Author: Ayush Singh(iit bhu)
